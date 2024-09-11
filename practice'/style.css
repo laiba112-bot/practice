@@ -1,0 +1,51 @@
+.main{
+    width: 100%;
+}
+.logos{
+    display:flex;
+    margin-left: 20px;
+    margin-top: 5%;
+}
+.img{
+    margin-left: 30%;
+}
+.pera{
+    margin-left: 35px;
+    margin-top: 3%;
+}
+.button{
+    margin-top: 3%;
+    margin-left: 35px;
+}
+.logotype{
+    margin-top: 3%;
+    margin-left: 35px;
+}
+.head{
+    margin-top: 5%;
+    margin-left: 35px;
+}
+.service{
+    margin-top: 5%;
+    margin-left: 35px;
+}
+.head-and-sub{
+    margin-top: 5%;
+    margin-left: 35px;
+}
+.process{
+    margin-top: 5%;
+    margin-left: 35px;
+}
+.contact{
+    margin-top: 5%;
+    margin-left: 35px;
+}
+.contact-1{
+    margin-top: 5%;
+    margin-left: 35px;
+}
+.footer{
+    margin-top: 5%;
+    margin-left: 35px;
+}
